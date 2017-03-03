@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf810
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker -}{\leveltext\leveltemplateid1\'01-;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker -}{\leveltext\leveltemplateid101\'01-;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker -}{\leveltext\leveltemplateid201\'01-;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+ourSenate.org\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf2 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\cf2 Purpose: provide an on-line forum for discussion of, and possible consensus building around, topics of social, cultural, economic, and political nature.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf2 Structural Organization:\
+\pard\tx360\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+A Senate \'97 50 \'93voting\'94 members, \'93elected\'94 on the basis of participation (contributing to discussion) and \'93concurrences\'94 (other participants granting a de facto proxy). Members of the Senate are charged with integrating issues and viewpoints originating in the Committees and formulating \'93Policies,\'94 \'93Proposals,\'94 and \'93Laws\'94 (each more concrete and specific than the previous) that represent the (near)consensus of \'93the People.\'94\
+\ls1\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+A set of Standing Committees \'97 Each charged with engaging specific issues within a broadly defined topical area: e.g. foreign policy; defense; civil authority (police); health; environment; labor; etc. 20 \'93voting\'94 members, \'93elected\'94 as above, and 20 \'93rotating members\'94 advocating and enhancing various viewpoints on the issues being considered by the Committee. Committee Members are charged with consolidating issues originating in Ad Hoc Committees into draft \'93Policy,\'94 \'93Procedure,\'94 or \'93Laws.\'94 An important aspect of this effort is to ensure that all points of contention/disagreement are identified along with all articulated viewpoints on those points.\
+\ls1\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+A larger set of Ad Hoc Committees \'97 convened anytime an individual participant, or small group, wants to raise a concern or an issue. Ad Hoc Committees are charged with fleshing out the idiosyncratic and particular; framing, generalizing, and sketching viewpoints; so it can become an issue for consideration by one of the standing committees. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf2 \
+Participation:\
+\pard\tx360\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Anyone, Anywhere, Anytime.\
+\ls2\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Real name, email, andurl/mac addresses, of devices used to participate, required to join. This information is used solely to ensure integrity of the site. It cannot and will not be shared, even with law enforcement, at any time and under any circumstance.\
+\ls2\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Pseudonyms, as long as they are linked to a real id, can be used for participation. (the forums will be monitored to prevent ad hominem, vituperative, and irrelevant posts (and participation revoked for anyone making such) so that everyone will eventually feel safe and shed the need for anonymity.)\
+\ls2\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Participants may adopt one of three roles: \'93Citizen\'94 (an individual advancing his or her idiosyncratic position); \'93Spokesperson,\'94 (asserting an \'93official position\'94 of some group or organization); or \'93Lobbyist\'94 (asserting representation of a group or organization with an advocacy position and extensive information supporting that position).\
+\ls2\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Participants, regardless of role, may advance positions and contribute to the modification and enhancement of positions.\
+\ls2\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Participants are obligated to absorb and respect the contributions of others so that their own contribution are informed and thoughtful.\
+\ls2\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'93Elective / Voting\'94 membership dependent on and skewed toward your thoughtful enhancement of the positions of others along with the ability to find commonality and as much consensus as possible.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf2 \
+Process Structure\
+\pard\tx360\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+I strongly recommend using a very basic Wiki to host ourSenate.org. A Registration front-end would be required to collect id and assign login name (pseudonym or initialspluslastname#). The only addition would be the ability to link to 90 second videos). 90% of participation will be asynchronous and textual.\
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+The Wiki should be augmented with a conferencing video chat capability. For Standing Committee and Senate scheduled \'91live\'94 sessions.\
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Participants ready to post a statement/position can see a list of Ad Hoc Committees and if one seems to match their topic, click the link to that committees page and post their contribution. (should be some kind of reasonably stringent maximum, 100-150 words). If they do not see an existing Ad Hoc, they can edit the list and add one, then make their post.\
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Any position can be edited, by altering text, adding link to other text, adding text, adding link to image or videoclip. The Wiki automatically keeps prior and edited pages so rollback is always possible. Edits automatically add tag identifying author of the edit.\
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+When all those participating on a page agree that it is ready (concise, clear, all viewpoints noted, and links to other pages dealing with similar subject matter noted) the \'93final\'94 version of the page can be copied and pasted to a Standing Committee page.\
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Similar process to advance to full Senate.\
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Standing Committees and the Senate may post a schedule for \'93live\'94 deliberation.\
+\ls3\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	-	}
+\f0 \cf2 \expnd0\expndtw0\kerning0
+Outcomes from the Senate are sent to \'91Real World\'92 politicians, advocates, lobbyists, media, policymakers, rule makers, etc. as deemed relevant and pertinent to the matter at hand.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf2 \
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\cf2 \
+}
